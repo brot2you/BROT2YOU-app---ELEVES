@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Case Files",
+    "description": "15 énigmes policières · grilles logiques",
+    "url": "https://brot2you.github.io/Brot2you-Case-Files/",
+    "category": "jeux",
+    "image": "assets/gamebox/01-case-files.webp"
+  },
+  {
+    "name": "Past Masters",
+    "description": "Verbes irréguliers en cartes à collectionner",
+    "url": "https://brot2you.github.io/Past-Masters/",
+    "category": "jeux",
+    "image": "assets/gamebox/02-past-masters.webp"
+  },
+  {
+    "name": "Ravensmoor Estate",
+    "description": "Enquête policière 1925 · Past Continuous & Perfect",
+    "url": "https://brot2you.github.io/Ravensmoor/",
+    "category": "jeux",
+    "image": "assets/gamebox/03-ravensmoor-estate.webp"
+  },
+  {
+    "name": "VerbDojo",
+    "description": "92 verbes irréguliers · familles · mindmap",
+    "url": "https://brot2you.github.io/Verb-Dojo/",
+    "category": "jeux",
+    "image": "assets/gamebox/04-verbdojo.webp"
+  },
+  {
+    "name": "Boost",
+    "description": "Confiance & progrès · interface console Switch",
+    "url": "https://brot2you.github.io/Boost/",
+    "category": "methode",
+    "image": "assets/gamebox/05-boost.webp"
+  },
+  {
+    "name": "Mochi Check",
+    "description": "Auto-évaluation toutes matières · compagnon kawaii",
+    "url": "https://brot2you.github.io/Mochi-Check/",
+    "category": "methode",
+    "image": "assets/gamebox/06-mochi-check.webp"
+  },
+  {
+    "name": "Swipe ton English",
+    "description": "Révisions anglais 6e–3e · style swipe",
+    "url": "https://brot2you.github.io/Swipe-Ton-English/",
+    "category": "methode",
+    "image": "assets/gamebox/07-swipe-ton-english.webp"
+  },
+  {
+    "name": "Swipe ton Brevet",
+    "description": "Compagnon DNB · toutes disciplines · style TikTok",
+    "url": "https://brot2you.github.io/Swipe-Ton-Brevet/",
+    "category": "methode",
+    "image": "assets/gamebox/08-swipe-ton-brevet.webp"
+  },
+  {
+    "name": "CogniCoach",
+    "description": "Flashcards audio · répétition espacée · dictée",
+    "url": "https://brot2you.github.io/Cognicoach/",
+    "category": "methode",
+    "image": "assets/gamebox/09-cognicoach.webp"
+  },
+  {
+    "name": "L'Arbre des Devoirs",
+    "description": "Arbre de décision · toutes compétences CECRL",
+    "url": "https://brot2you.github.io/Arbre-des-devoirs/",
+    "category": "methode",
+    "image": "assets/gamebox/10-l-arbre-des-devoirs.webp"
+  },
+  {
+    "name": "Objectif Devoirs",
+    "description": "Agenda · Pomodoro · quiz · MindMap · XP",
+    "url": "https://brot2you.github.io/Objectif-Devoirs/",
+    "category": "methode",
+    "image": "assets/gamebox/11-objectif-devoirs.webp"
+  },
+  {
+    "name": "Books of Heroes",
+    "description": "Romans dont tu es le héros · mode dys",
+    "url": "https://brot2you.github.io/BOOKS-OF-HEROES/",
+    "category": "lecture",
+    "image": "assets/gamebox/12-books-of-heroes.webp"
+  },
+  {
+    "name": "Make Me Read",
+    "description": "OpenDyslexic · masque de lecture · syllabation",
+    "url": "https://brot2you.github.io/Make-Me-Read/",
+    "category": "lecture",
+    "image": "assets/gamebox/13-make-me-read.webp"
+  },
+  {
+    "name": "My Survival Kit",
+    "description": "Vocab de classe · Indiana Jones · 35 badges",
+    "url": "https://brot2you.github.io/My-Survival-Kit/",
+    "category": "lecture",
+    "image": "assets/gamebox/14-my-survival-kit.webp"
+  },
+  {
+    "name": "GrammarArena",
+    "description": "15 boss grammaticaux · 120 questions · arcade",
+    "url": "https://brot2you.github.io/Grammar-Arena/",
+    "category": "grammaire",
+    "image": "assets/gamebox/15-grammararena.webp"
+  },
+  {
+    "name": "Mind the Mistake!",
+    "description": "22 codes d'erreur · auto-correction",
+    "url": "https://brot2you.github.io/mind-the-mistake/",
+    "category": "grammaire",
+    "image": "assets/gamebox/16-mind-the-mistake.webp"
+  },
+  {
+    "name": "CultureCorner",
+    "description": "41 axes BO 2025 · musique · films · podcasts",
+    "url": "https://brot2you.github.io/Culture-Corner/",
+    "category": "culture",
+    "image": "assets/gamebox/17-culturecorner.webp"
+  },
+  {
+    "name": "Phonix",
+    "description": "Cartes de mage · grimoire · boosters · duels",
+    "url": "https://brot2you.github.io/Phonix/",
+    "category": "oral",
+    "image": "assets/gamebox/18-phonix.webp"
+  }
+]
