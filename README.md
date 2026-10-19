@@ -1,14 +1,16 @@
-# BROT2YOU Game Collection — Édition Jaquettes
+# BROT2YOU Game Collection — Arcade
 
-Site statique prêt pour GitHub Pages.
+Site statique prêt pour GitHub Pages. Déposez **tous les fichiers et dossiers** à la racine du dépôt. Ouvrez le site depuis GitHub Pages ou un serveur HTTP local (le chargement de `apps.json` par fetch ne fonctionne pas en ouvrant `index.html` directement depuis le disque).
 
-- 18 illustrations de jaquettes issues d’une nouvelle planche graphique, recadrées individuellement et optimisées en WebP.
-- Leurs titres sont rendus en HTML, jamais dans les illustrations.
-- Bannière BROT2YOU avec le personnage sur le cartable-skateboard.
-- Logo BROT2YOU APP, nouvelles icônes vectorielles, filtres, recherche et boutons OUVRIR renforcés.
-- Noms, descriptions et URLs conservés de la source.
+- **18 jaquettes** : découpées proprement, une par une, à partir de la planche fournie par l’utilisateur (`Collection animée des héros éducatifs(1).png`). La résolution native de chaque vignette est limitée par la planche source (elles ne sont pas faussement présentées comme des illustrations indépendantes HD).
+- **Bannière** : découpée depuis la maquette de plateforme fournie (`Collection de jeux éducatifs colorés à Londres(1).png`).
+- **Audio** : `floraphonic-arcade-ui-6-229503.mp3`, déclenché après interaction utilisateur. Interrupteur Son ON/OFF.
+- **Grille** : 9 colonnes sur très grand écran, 7 puis 5 puis 4 et 2 sur téléphone. Les jaquettes entières sont affichées avec `object-fit: contain`.
+- **Reflets** : animation CSS légère sur la surface de chaque jaquette (désactivée si `prefers-reduced-motion`).
+- **Noms / URL** : préservés depuis le fichier fourni du portail BROT2YOU.
 
-## Installation
-Placez tout le contenu de ce dossier à la racine du dépôt GitHub Pages, puis activez Pages depuis la branche principale.
+Pour désactiver les effets sonores, utiliser le bouton « Son OFF ».
 
-**Note artistique** : les 18 illustrations ont été redessinées dans une composition collective puis extraites ; elles ne sont pas des rendus HD individuels natifs.
+
+## Correction jaquettes uniformes
+Les 18 images ont été recomposées sur un canevas identique de 720 × 960 pixels (format 3:4), sans recadrer les dessins originaux. Les espaces sont remplis par une extension floutée et assombrie de chaque image.
