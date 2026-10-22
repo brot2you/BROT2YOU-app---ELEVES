@@ -124,5 +124,19 @@
     "url": "https://brot2you.github.io/Phonix/",
     "category": "oral",
     "image": "assets/covers/18.webp"
+  },
+  {
+    "name": "WordUp Arcade",
+    "description": "Défis de vocabulaire anglais · jeux arcade et boosters",
+    "url": "https://brot2you.github.io/Wordup/",
+    "category": "jeux",
+    "image": "assets/covers/19-wordup.webp"
+  },
+  {
+    "name": "Dino Buddy Park",
+    "description": "Explore un parc de dinosaures · quiz d’anglais et compagnons",
+    "url": "https://brot2you.github.io/Dino-Buddy-Park/",
+    "category": "jeux",
+    "image": "assets/covers/20-dino-buddy-park.webp"
   }
 ]
