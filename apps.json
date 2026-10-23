@@ -145,5 +145,12 @@
     "url": "https://brot2you.github.io/Mind-The-Sound/",
     "category": "oral",
     "image": "assets/covers/21-mind-the-sound.webp"
+  },
+  {
+    "name": "Ev@lang Quest",
+    "description": "Entraînement adaptatif Ev@lang · compréhension, grammaire, vocabulaire · positionnement CECRL",
+    "url": "https://brot2you.github.io/Evalang-Quest/",
+    "category": "methode",
+    "image": "assets/covers/22-evalang-quest.webp"
   }
 ]

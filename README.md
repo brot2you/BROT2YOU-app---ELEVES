@@ -23,3 +23,7 @@ Ajout de **WordUp Arcade** et **Dino Buddy Park** en fin de collection, en caté
 Mind the Sound! a été ajoutée à la catégorie Oral, avec sa jaquette dédiée et son URL complète (ancre #P04 incluse).
 
 Correctif accueil Mind the Sound! : URL racine sans #P04.
+
+
+## Mise à jour : 22 applications
+Ajout de **Ev@lang Quest** dans la catégorie Méthode avec une nouvelle jaquette haute définition 720×960. URL : https://brot2you.github.io/Evalang-Quest/
