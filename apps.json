@@ -138,5 +138,12 @@
     "url": "https://brot2you.github.io/Dino-Buddy-Park/",
     "category": "jeux",
     "image": "assets/covers/20-dino-buddy-park.webp"
+  },
+  {
+    "name": "Mind the Sound!",
+    "description": "Entraîne ta prononciation anglaise · sons et défis audio",
+    "url": "https://brot2you.github.io/Mind-The-Sound/#P04",
+    "category": "oral",
+    "image": "assets/covers/21-mind-the-sound.webp"
   }
 ]

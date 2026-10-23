@@ -18,3 +18,6 @@ Les 18 images d’origine ont été recomposées sur un canevas identique de 720
 ## Version 20 applications
 
 Ajout de **WordUp Arcade** et **Dino Buddy Park** en fin de collection, en catégorie Jeux. Chaque nouvelle jaquette est stockée séparément en WebP 720 × 960 px dans `assets/covers/`. Les filtres et compteurs se mettent à jour automatiquement via `apps.json`.
+
+## Mise à jour — 21 applications
+Mind the Sound! a été ajoutée à la catégorie Oral, avec sa jaquette dédiée et son URL complète (ancre #P04 incluse).
