@@ -27,3 +27,5 @@ Correctif accueil Mind the Sound! : URL racine sans #P04.
 
 ## Mise à jour : 22 applications
 Ajout de **Ev@lang Quest** dans la catégorie Méthode avec une nouvelle jaquette haute définition 720×960. URL : https://brot2you.github.io/Evalang-Quest/
+
+Correction : titre « Ev@lang Quest » ajouté directement et lisiblement sur la couverture n° 22.
