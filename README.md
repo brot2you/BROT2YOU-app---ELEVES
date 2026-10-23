@@ -21,3 +21,5 @@ Ajout de **WordUp Arcade** et **Dino Buddy Park** en fin de collection, en caté
 
 ## Mise à jour — 21 applications
 Mind the Sound! a été ajoutée à la catégorie Oral, avec sa jaquette dédiée et son URL complète (ancre #P04 incluse).
+
+Correctif accueil Mind the Sound! : URL racine sans #P04.
